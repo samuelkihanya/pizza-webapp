@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(230, 173, 187);
+  }
+  
+  h1 {
+    color: yellowgreen;
+    text-align: center;
+}
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }   
+  
+ .img {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+  }
+ 
+  div {
+ padding-top: 50px;
+ padding-right: 30px;
+ padding-bottom: 50px;
+ padding-left: 80px;
+}
+ .div3 {
+        background-image: url("pizza4.gif");
+        background-color: #cccccc;
+      }
+ }
+
+ .div4 {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+   }
